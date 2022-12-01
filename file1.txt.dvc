@@ -1,4 +1,4 @@
 outs:
-- md5: 0e6c52a7435ddfc2dbd38960fbe963a4
-  size: 15
+- md5: d41d8cd98f00b204e9800998ecf8427e
+  size: 0
   path: file1.txt
